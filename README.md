@@ -17,9 +17,6 @@ Create a database in MySQL to contain our product data
 Once we have a database running, we can now proceed to seed our data using `npm run seed`!
 
 ## Usage
-
-![startup-img](https://user-images.githubusercontent.com/93315369/171784162-e1f301cc-d681-47a2-9a6f-29020dc10ef0.jpg)
-
 [Project Startup Demonstration](https://youtu.be/UdtgEw8z1ws)
 
 ![routes-img](https://github.com/Jbarcial25/13-e_commerce_backend/blob/main/demo/Screen%20Shot%202022-06-21%20at%2010.58.06%20PM.png?raw=true)
